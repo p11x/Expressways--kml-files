@@ -1,0 +1,6 @@
+{
+  "name": "India Roads → KMZ Exporter (Overpass)",
+  "description": "Download OpenStreetMap motorways and expressways for Indian states and export clean, categorised, Google Earth-ready KMZ files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
